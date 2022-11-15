@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning training</h1>
-    <p>Please fill in this form to create an account.</p>
+    <p>Please fill in this form to create an account on our learing platform</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
@@ -35,6 +35,6 @@
 
   
   See you all Next Time>>>>>>>>>>>>>>>>>>
-  
+  Have a Good day!!!!!!
 </form>
 
