@@ -12,18 +12,18 @@
     <input type="text" placeholder="Provide Full Name"name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter mobile</b></label>
+    <label for="mobile"><b>Enter mobile number</b></label>
 
 
     <input type="text" placeholder="Provide 10 digits mobile number" name="mobile" id="mobile" required>
     <br>
 
     <label for="email"><b>Enter Email</b></label>
-    <input type="text" placeholder="Provide Email" name="email" id="email" required>
+    <input type="text" placeholder="Provide Email id" name="email" id="email" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Provide Pwd" name="psw" id="psw" required>
+    <input type="password" placeholder="Provide Password" name="psw" id="psw" required>
     <br>
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
