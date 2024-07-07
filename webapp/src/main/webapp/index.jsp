@@ -46,4 +46,6 @@
 # I have successfully created a pipeline using Jenkins, Git ,Maven, Ansible, Docker, Kubernetes.
 # Work Hard and dream big!!
 # Practice is the key to be skilled in your competencies.
+# Sapne dekho or unhe pura kro...no one is going to do that on behalf of you.!!
+# laugh love and live.............
 # Jai jai Bajrang Bali!!
